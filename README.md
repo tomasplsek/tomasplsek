@@ -1,28 +1,5 @@
 ## 👋 About Me
 
-🎓 **Astrophysics PhD Student**  
-I am a PhD candidate at the Department of Theoretical Physics and Astrophysics (DTPA),  
-**Masaryk University, Brno**, working in the **High Energy Astrophysics (HEA)** group  
-led by **Prof. Norbert Werner**.
+🎓 I am an astrophysics PhD student at the Department of Theoretical Physics and Astrophysics (DTPA), Masaryk University in Brno, Czech Republic, working in the **High Energy Astrophysics ([HEA](https://hea.physics.muni.cz/))** group led by Prof. Norbert Werner. My research focuses on AGN feedback in giant elliptical galaxies, with a specialisation in the study of **X-ray cavities** in their hot atmospheres. I work extensively on image and spectral analysis of X-ray observations and on applying machine learning methods to astronomical data. I am also involved in the development of **[CADET](https://github.com/tomasplsek/CADET)**, an image-segmentation pipeline for automatic detection of X-ray cavities.
 
-🔭 **Research Focus**  
-My research centers on **AGN feedback in giant elliptical galaxies**, with a particular specialization in the study of **X-ray cavities** in their hot atmospheres.  
-I work extensively on:
-
-- 🛰️ Image analysis of X-ray observations  
-- 📊 Spectral modeling and interpretation  
-- 🤖 Applications of machine learning in astronomy  
-
-💻 **Coding & Tech Interests**  
-I genuinely enjoy coding — both for research and personal projects.  
-In my free time, I experiment with:
-
-- 🏠 Home automation systems  
-- 🛠️ Small programming tools and technical projects  
-
-⚽ **Outside Academia**  
-When I step away from the screen, you’ll likely find me:
-
-- ⚽ Playing football  
-- 🚴 Riding my bike  
-- 🌱 Gardening  
+💻 Beyond my core research, I genuinely enjoy coding, and in my free time, I like to play with home automation projects. When I step away from the screen, I play football ⚽, ride my bike 🚴, and spend time gardening 🌱.
